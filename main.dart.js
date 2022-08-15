@@ -76196,7 +76196,7 @@ o=p>700
 n=o?p:700
 m=$.K().a
 l=m===B.S
-k=A.cb(50,A.a5(b,A.ei(l?a:a0,b,B.bC,b,b),B.j,b,b,b,b,n,b,b,b,b,q),b,b,b,b,b,b)
+k=A.cb(100,A.a5(b,A.ei(l?a:a0,b,B.bC,b,b),B.j,b,b,b,b,n,b,b,b,b,q),b,b,b,b,b,b)
 j=l?a:a0
 o=o?p:700
 i=q*0.65
@@ -76215,7 +76215,7 @@ c=m===B.S?a:a0
 e=A.a([h,A.uo(b,m.c.CW,new A.ll(new A.h(i,g),new A.h(q*0.52,f),new A.h(e,d)),c,l,i,e)],t.cA)
 i=A.ei("assets/images/pmLogoNewColors.png",b,b,90,b)
 l=t.s
-return A.al(a2,A.oy(!1,b,A.dp(A.a5(b,A.dK(B.a_,A.a([k,A.avi(e,o,B.bC,j,b,b,A.a(["Modern App Development","Transparent","Agile"],l),!1,A.a(["25+ Years of Experience"],l),i,"<em>Welcome</em>")],t.p),B.a2),B.j,b,b,b,b,n,b,b,b,b,s.a),b,b),b),b,b)}}
+return A.al(a2,A.oy(!1,b,A.dp(A.a5(b,A.dK(B.a_,A.a([k,A.avi(e,o,B.bC,j,b,b,A.a(["Modern App Development","Transparent","Agile"],l),!1,A.a(["25+ Years of Experience"],l),i,"<em>Welcome</em>")],t.p),B.a2),B.j,b,b,b,b,n+50,b,b,b,b,s.a),b,b),b),b,b)}}
 A.Om.prototype={
 by(a3,a4,a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1=null,a2="assets/images/fflutterFigSmall.png"
 a5.bv($.dl(),t.g)
