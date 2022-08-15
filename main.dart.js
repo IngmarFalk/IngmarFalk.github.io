@@ -76190,10 +76190,11 @@ r=a3.K(s).f
 q=a3.K(s).f.a.a
 s=r.a
 p=s.b-150
-o=p>700?p:700
-n=$.K().a===B.P?a0:a1
-n=A.af(a3,A.ch(100,A.ab(a,A.ei(n,a,A.af(a3,B.bX,B.cn,a),a,a),B.j,a,a,a,a,o,a,a,a,a,q),a,a,a,a,a,a),B.B,a)
-m=p>480?p:480
+o=p>480
+n=o?p:480
+m=$.K().a===B.P?a0:a1
+m=A.af(a3,A.ch(100,A.ab(a,A.ei(m,a,A.af(a3,B.bX,B.cn,a),a,a),B.j,a,a,a,a,n,a,a,a,a,q),a,a,a,a,a,a),B.B,a)
+o=o?p:480
 l=$.K().a===B.P?a0:a1
 k=A.af(a3,B.bX,B.cn,a)
 j=q*0.65
@@ -76201,10 +76202,10 @@ i=q*0.55
 h=$.K().a
 h=h===B.P?h.c.b:B.i8
 g=B.d.ak(127.5)
-f=o*0.75
-e=o*0.5
+f=n*0.75
+e=n*0.5
 d=q*0.45
-c=o*0.25
+c=n*0.25
 i=A.uo(a,h,new A.ll(new A.h(j,f),new A.h(i,e),new A.h(d,c)),a,A.az(g,0,0,0),j,i)
 j=q*0.6
 h=$.K().a
@@ -76213,7 +76214,7 @@ b=h===B.P?a0:a1
 d=A.a([i,A.uo(a,h.c.CW,new A.ll(new A.h(j,f),new A.h(q*0.52,e),new A.h(d,c)),b,g,j,d)],t.cA)
 j=A.ei("assets/images/pmLogoNewColors.png",a,a,90,a)
 g=t.s
-return A.af(a3,A.oy(!1,a,A.dp(A.ab(a,A.dK(B.a_,A.a([n,A.avh(d,m,k,l,a,a,A.a(["Modern App Development","Transparent"],g),!1,A.a(["25+ Years of Experience"],g),j,"<em>Welcome</em>")],t.p),B.a2),B.j,a,a,a,a,o+50,a,a,a,a,s.a),a,a),a),a,a)}}
+return A.af(a3,A.oy(!1,a,A.dp(A.ab(a,A.dK(B.a_,A.a([m,A.avh(d,o,k,l,a,a,A.a(["Modern App Development","Transparent"],g),!1,A.a(["25+ Years of Experience"],g),j,"<em>Welcome</em>")],t.p),B.a2),B.j,a,a,a,a,n+50,a,a,a,a,s.a),a,a),a),a,a)}}
 A.Om.prototype={
 by(a3,a4,a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1=null,a2="assets/images/fflutterFigSmall.png"
 a5.bv($.dl(),t.g)
