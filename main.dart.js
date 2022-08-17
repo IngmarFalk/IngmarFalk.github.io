@@ -76772,7 +76772,7 @@ if(n)m=0
 else{l=A.aT(a2).d
 l.toString
 m=A.qj(o,l.ae($.Q().a.c.c).fX(A.ar(a2,60,35,50)).rH(1).Qr(B.oN).iN(B.aG),500)}l=800+m
-k=A.ar(a2,l,750+m,l)
+k=A.ar(a2,l,l,l)
 l=q*0.66
 j=A.ar(a2,q/2,l,l)
 l=A.Jp(a2)
