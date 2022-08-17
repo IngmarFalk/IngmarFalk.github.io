@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "7e0d3d74efb7953940825aa6c1621acb",
-"index.html": "8c6539a4d13c3f68e65e3783a186acef",
-"/": "8c6539a4d13c3f68e65e3783a186acef",
-"main.dart.js": "3de4e94ef577ac1997dc61704dbbbdf7",
+"index.html": "2f4342aa4f22d02fa0f6b646e4833fbd",
+"/": "2f4342aa4f22d02fa0f6b646e4833fbd",
+"main.dart.js": "c1db7d9b88322506193409e57d785c23",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -53,7 +53,7 @@ const RESOURCES = {
 "assets/assets/images/fflutterFigSmall.png": "9963f3766bca21319402a3fcb3b02259",
 "assets/assets/images/topLeftCornerGradient.png": "c12915aa320ea0d6de65ad0f5441cdd7",
 "assets/assets/images/fandroidFig.png": "b1e6f6bb6b9f0d84658b5fbcdc7d0479",
-"assets/assets/images/fflutterFigSlice.png": "9312067c6b016bbbbb8f66b1861a88c9",
+"assets/assets/images/fflutterFigSlice.png": "61ab0c038163c208af2f1b3302994467",
 "assets/assets/images/helloFig.png": "597bea5b4bf136e41e2d64d63a22d763",
 "assets/assets/images/pmlogoSmallGaps.png": "ab9a58011f54fd2a7da06c7c8a3629a9",
 "assets/assets/images/programming.png": "5fcec13b4aa2c37836e7a5779fb8eed3",
