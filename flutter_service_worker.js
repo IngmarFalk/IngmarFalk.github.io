@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "7e0d3d74efb7953940825aa6c1621acb",
-"index.html": "c839524d1ce33f59a53445f7c00c5e68",
-"/": "c839524d1ce33f59a53445f7c00c5e68",
-"main.dart.js": "2854f5b63f5ea59a1dee7f8c886d136e",
+"index.html": "46ea842dbcce8b7f895d0f54923bcca6",
+"/": "46ea842dbcce8b7f895d0f54923bcca6",
+"main.dart.js": "8f19be204f6b9995d9978540b24ab879",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -66,7 +66,7 @@ const RESOURCES = {
 "assets/assets/images/speedIcon.png": "bfbcf66e8be8e585952c9fd30cd1e489",
 "assets/assets/images/bgLightBWLogoSimple.png": "2d1a65847a1d48e66268440c5c1420f2",
 "assets/assets/images/arrivalByTrainRev.png": "70cf68dc9c5e03c56c7d74e84bfee44c",
-"assets/assets/images/chat.png": "08b51975fbdbe40a09e98b3f5e87437a",
+"assets/assets/images/chat.png": "3ca5118ae84901df431a481f5fb114fc",
 "assets/assets/images/pricingIcon2.png": "aefa94bde3e5456d0be790efb6833029",
 "assets/assets/images/eclipse.png": "4378f7119697815384d348960871b509",
 "assets/assets/images/minimal.jpg": "176a46fa122e42c2ec2f0c9be4061e1e",
